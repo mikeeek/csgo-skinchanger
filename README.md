@@ -3,7 +3,7 @@
  
  Reads/parses values from .txt file (skin ids, knife model)
  
- Every skin/kinfe is supported
+ Every skin/knife is supported
 
  Obviously its not a complete project so you'd need a base and hooks of your own
  
