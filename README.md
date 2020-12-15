@@ -7,4 +7,4 @@
 
  Obviously its not a complete project so you'd need a base and hooks of your own
  
- Thanks @Chozen for his public source to help me out
+ Thanks @BaberZz for his parser source
